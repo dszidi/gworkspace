@@ -16,7 +16,7 @@ ID
 .*.sw[a-z]
 
 # User files that may appear at the root
-configure
+# configure
 config.cache
 config.log
 config.status
