@@ -1,9 +1,8 @@
-## New Workspace Issue Tracker
+# New Workspace Issue Tracker
 Until I add a new repo for our Workspace Manager app, I will track issues  and milestones in here.
 
 ### General
 
-- Fork GWorkspace
 - Rename Workspace project
 - Remove tabbed shelf -- DONE!!
 
